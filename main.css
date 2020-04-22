@@ -1,0 +1,22 @@
+
+body {
+  background-color: white;
+
+}
+
+.navbar-custom {
+  background-color: #b30000;
+  margin-bottom: 100px;
+}
+
+.nav-link{
+  transition: 0.3s;
+}
+
+.navbar-toggler{
+  transition: 0.3s;
+}
+
+.navbar-toggler:hover{
+  color: white;
+}
